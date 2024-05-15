@@ -1,0 +1,9 @@
+node_modules
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+assets/
+.vscode/
